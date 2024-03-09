@@ -1,0 +1,23 @@
+{
+  "name": "topik-teakto",
+  "version": "1.0.0",
+  "description": "topik-teakto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacktomssis/topik-teakto.git"
+  },
+  "dependencies": {
+    "cryptofalks": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacktomssis/topik-teakto/issues"
+  },
+  "homepage": "https://github.com/jacktomssis/topik-teakto#readme"
+}
